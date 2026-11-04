@@ -1,0 +1,3 @@
+# Harici Python paketi GEREKMEZ.
+# A.py ve B.py yalnızca standart kütüphaneyi kullanır (argparse, math, socket, sys, time).
+# Gereken tek şey: Python 3.8 veya üzeri (Python 3.12.3 ile test edildi).
